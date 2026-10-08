@@ -59,7 +59,7 @@ Motivated **BCA Graduate (2026 Batch)** with practical experience in full-stack 
 
 ---
 
-### 💼 Experience
+### 💼 Experience 
 
 **Web Developer Intern** | *Karon Infotech (Surat, Gujarat)*  
 *Nov 2025 – Jan 2026*
