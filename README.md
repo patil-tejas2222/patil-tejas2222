@@ -47,7 +47,7 @@ Motivated **BCA Graduate (2026 Batch)** with practical experience in full-stack 
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects 
 
 #### 🏋️ [Gains Fitness Club - Gym Management System](https://github.com/patil-tejas2222/Gym-Management-System)
 *Full-stack Gym Operations Automation Web Application*
