@@ -3,7 +3,7 @@
 
 📍 **Surat, Gujarat, India**  
 📧 **Email:** [tsp469@gmail.com](mailto:tsp469@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/patil-tejas2222](https://linkedin.com) *(Update your profile link)*
+💼 **LinkedIn:** https://www.linkedin.com/in/tejas-patil469 
 
 ---
 
