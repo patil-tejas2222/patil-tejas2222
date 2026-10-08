@@ -33,7 +33,7 @@ Motivated **BCA Graduate (2026 Batch)** with practical experience in full-stack 
 **Databases & Core Concepts:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0055DA?style=for-for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-3776AB?style=for-the-badge)
 ![MVC Architecture](https://img.shields.io/badge/MVC-61DAFB?style=for-the-badge)
 
@@ -50,22 +50,22 @@ Motivated **BCA Graduate (2026 Batch)** with practical experience in full-stack 
 
 #### 🏋️ [Gains Fitness Club - Gym Management System](https://github.com/patil-tejas2222/Gym-Management-System)
 *Full-stack Gym Operations Automation Web Application*
-- **Tech Stack:** Core PHP, MySQL, JavaScript, HTML5, CSS3, Bootstrap 5, Razorpay API[span_0](start_span)[span_0](end_span)
-- Built secure **Role-Based Authentication** for Admin and Member portals with dynamic session handling[span_1](start_span)[span_1](end_span).
-- Designed and normalized relational **MySQL database** for storing member records, billing, and transactions[span_2](start_span)[span_2](end_span).
-- Integrated **Razorpay Payment Gateway** for automated online fee processing and status tracking[span_3](start_span)[span_3](end_span).
-- Created an innovative **QR Code-based contactless attendance system** for fast member check-ins[span_4](start_span)[span_4](end_span).
+- **Tech Stack:** Core PHP, MySQL, JavaScript, HTML5, CSS3, Bootstrap 5, Razorpay API
+- Built secure **Role-Based Authentication** for Admin and Member portals with dynamic session handling.
+- Designed and normalized relational **MySQL database** for storing member records, billing, and transactions.
+- Integrated **Razorpay Payment Gateway** for automated online fee processing and status tracking.
+- Created an innovative **QR Code-based contactless attendance system** for fast member check-ins.
 
 ---
 
 ### 💼 Experience
 
 **Web Developer Intern** | *Karon Infotech (Surat, Gujarat)*  
-*Nov 2025 – Jan 2026*[span_5](start_span)[span_5](end_span)
-- Developed responsive web application modules using HTML5, CSS3, JavaScript, and Bootstrap 5[span_6](start_span)[span_6](end_span).
-- Implemented full **CRUD operations** using Core PHP & MySQL for database management[span_7](start_span)[span_7](end_span).
-- Handled payment verification and gateway integration using Razorpay[span_8](start_span)[span_8](end_span).
-- Managed local server configurations (WAMP, phpMyAdmin) and version control via Git & GitHub[span_9](start_span)[span_9](end_span).
+*Nov 2025 – Jan 2026*
+- Developed responsive web application modules using HTML5, CSS3, JavaScript, and Bootstrap 5.
+- Implemented full **CRUD operations** using Core PHP & MySQL for database management.
+- Handled payment verification and gateway integration using Razorpay.
+- Managed local server configurations (WAMP, phpMyAdmin) and version control via Git & GitHub.
 
 ---
 
