@@ -71,6 +71,6 @@ Motivated **BCA Graduate (2026 Batch)** with practical experience in full-stack 
 
 ### 📊 GitHub Profile Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patil-tejas2222&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Tejas' GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patil-tejas2222&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patil-tejas2222&show_icons=true&theme=dark&hide_border=true&count_private=true&v=1" alt="Tejas' GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patil-tejas2222&layout=compact&theme=dark&hide_border=true&v=1" alt="Top Languages" width="48%" />
 </p>
