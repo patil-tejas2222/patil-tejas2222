@@ -33,16 +33,17 @@ Motivated **BCA Graduate (2026 Batch)** with practical experience in full-stack 
 **Databases & Core Concepts:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-3776AB?style=for-the-badge)
-![MVC Architecture](https://img.shields.io/badge/MVC-61DAFB?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
+![OOP](https://img.shields.io/badge/OOPs-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **Tools & Environment:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![WAMP](https://img.shields.io/badge/WAMP_Server-412217?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WAMP Server](https://img.shields.io/badge/WAMP_Server-412217?style=for-the-badge&logo=wamp&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
 ---
 
@@ -71,6 +72,6 @@ Motivated **BCA Graduate (2026 Batch)** with practical experience in full-stack 
 
 ### 📊 GitHub Profile Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patil-tejas2222&show_icons=true&theme=dark&hide_border=true&count_private=true&v=1" alt="Tejas' GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patil-tejas2222&layout=compact&theme=dark&hide_border=true&v=1" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patil-tejas2222&show_icons=true&theme=dark&hide_border=true&count_private=true&v=2" alt="Tejas' GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patil-tejas2222&layout=compact&theme=dark&hide_border=true&v=2" alt="Top Languages" width="48%" />
 </p>
