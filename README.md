@@ -3,7 +3,7 @@
 Backend Developer | BCA 2026 Batch | Surat, Gujarat
 
 - 🚀 Tech Stack: Python, FastAPI, PHP, MySQL, REST APIs, Git, JavaScript
-- 💻 Currently working on: Bulk Certificate Generator API (FastAPI) & Gym Management System
+- 💻 Currently working on: Gym Management System &  Bulk Certificate Generator API (FastAPI)
 - 🎯 Looking for: Backend / Software Engineering Roles
 
 ### Tech Stack & Tools
