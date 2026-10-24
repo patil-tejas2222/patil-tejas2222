@@ -75,8 +75,4 @@ BCA graduate (2026 batch) focused on becoming a **Python Backend Developer**. I 
 
 ---
 
-### 📊 GitHub Profile Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patil-tejas2222&show_icons=true&theme=dark&hide_border=true&count_private=true&v=2" alt="Tejas' GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patil-tejas2222&layout=compact&theme=dark&hide_border=true&v=2" alt="Top Languages" width="48%" />
-</p>
+
